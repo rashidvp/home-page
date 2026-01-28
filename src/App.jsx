@@ -19,12 +19,12 @@ const tools = [
     desc: "Compress images to target file size",
     url: "https://rashidvp.github.io/image-compressor/",
   },
-  {
-    title: "PDF Compressor",
-    icon: "📄",
-    desc: "Compress PDF to target file size",
-    url: "https://rashidvp.github.io/pdf-compressor/",
-  },
+  // {
+  //   title: "PDF Compressor",
+  //   icon: "📄",
+  //   desc: "Compress PDF to target file size",
+  //   url: "https://rashidvp.github.io/pdf-compressor/",
+  // },
   {
     title: "Spin the Wheel",
     icon: "🎡",
