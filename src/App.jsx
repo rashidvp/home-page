@@ -19,6 +19,12 @@ const tools = [
     desc: "Compress images to target file size",
     url: "https://rashidvp.github.io/image-compressor/",
   },
+  {
+    title: "WhatsApp to Any Number",
+    icon: "💬",
+    desc: "Send WhatsApp messages to any number",
+    url: "https://rashidvp.github.io/msg-to-any/",
+  },
   // {
   //   title: "PDF Compressor",
   //   icon: "📄",
